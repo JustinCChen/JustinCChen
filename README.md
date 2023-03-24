@@ -26,7 +26,7 @@ I am a full-stack Software Engineer located in Orange County, California. I love
   
 <h2>🤝 Let's Connect</h2> 
 <p>
-  <a href="https://www.linkedin.com/in/justin-chen-92012a265/">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
